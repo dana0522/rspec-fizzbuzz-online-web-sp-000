@@ -10,6 +10,6 @@ def fizzbuzz(x)
     puts "Buzz"
   elsif x % 4 == 0
     return nil
-end
+  end
 end
 
