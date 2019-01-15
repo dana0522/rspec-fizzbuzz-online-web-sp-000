@@ -11,3 +11,4 @@ def fizzbuzz(x)
   elsif x % 5==0 and x % 3==0
     puts "FizzBuzz"
 end
+end
