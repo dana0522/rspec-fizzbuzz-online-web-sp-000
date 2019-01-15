@@ -12,3 +12,5 @@ def fizzbuzz(i)
       return nil
   end
 end
+
+fizzbuzz(3)
