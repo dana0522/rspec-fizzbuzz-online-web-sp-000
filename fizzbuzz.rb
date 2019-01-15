@@ -13,4 +13,3 @@ def fizzbuzz(x)
 end
 end
 
-fizzbuzz(4)
