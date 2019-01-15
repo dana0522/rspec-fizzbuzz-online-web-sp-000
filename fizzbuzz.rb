@@ -8,7 +8,7 @@ def fizzbuzz(i)
       puts 'Buzz'
   elsif (i % 3) == 0
       puts 'Fizz'
-  else
-      puts i
+  elsif (i % 4) == 0
+      return nil
   end
 end
