@@ -3,12 +3,12 @@
 
 def fizzbuzz(i)
   if (i % 5) == 0 && (i % 3) ==0
-      puts 'FizzBuzz'
+      'FizzBuzz'
   elsif (i % 5) == 0
-      puts 'Buzz'
+      'Buzz'
   elsif (i % 3) == 0
-      puts 'Fizz'
+      'Fizz'
   elsif (i % 4) == 0
-      return nil
+      nil
   end
 end
