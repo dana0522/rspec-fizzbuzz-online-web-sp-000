@@ -13,5 +13,3 @@ def fizzbuzz(x)
 end
 end
 
-testing=fizzbuzz(3)
-puts testing
