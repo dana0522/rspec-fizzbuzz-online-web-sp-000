@@ -12,3 +12,5 @@ def fizzbuzz(x)
     puts "FizzBuzz"
 end
 end
+
+def(15)
